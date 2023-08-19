@@ -8,7 +8,7 @@ header, footer {
     background-color: blue;
     color: white;
 }
-h1, h2 {
+h1 {
   text-align: center;
 }
 img {
@@ -23,6 +23,6 @@ ul {
   font-size: 20px;
 }
 p {
-  text-align: center;
+  text-align: left;
   font-size: 30px;
 }
